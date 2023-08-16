@@ -1,5 +1,7 @@
 ### IntelliJ IDEA ###
 out/
+.idea/
+Challenge-1.iml
 !**/src/main/**/out/
 !**/src/test/**/out/
 
