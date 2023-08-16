@@ -13,6 +13,7 @@
 
 - Tasks
     - [x] folder creation
+    - [x] branch creation
 
 #### About the challenge
 
@@ -32,7 +33,8 @@
 > - Main language: JAVA
 
 - Tasks
-    - [ ] folder creation
+    - [x] folder creation
+    - [x] branch creation
 
 #### About the challenge
 
@@ -47,7 +49,8 @@
 > - Main language: JAVA
 
 - Tasks
-    - [ ] folder creation
+    - [x] folder creation
+    - [x] branch creation
 
 #### About the challenge
 
@@ -62,7 +65,8 @@
 > - Main language: SQL
 
 - Tasks
-    - [ ] folder creation
+    - [x] folder creation
+    - [x] branch creation
 
 #### About the challenge
 
@@ -77,7 +81,8 @@
 > - Main language: NoSQL
 
 - Tasks
-    - [ ] folder creation
+    - [x] folder creation
+    - [x] branch creation
 
 #### About the challenge
 
