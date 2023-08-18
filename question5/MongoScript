@@ -1,0 +1,2 @@
+use <databaseName>
+db.<collectionName>.insertOne
