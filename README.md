@@ -85,7 +85,26 @@
     - [x] branch creation
 
 #### About the challenge
-
+> Must create a script for MondoDB inserting a Person Document containing:
+> - Object;
+> - Name;
+> - Age;
+> - Phone;
+> - Height;
+> - Email;
+> - CPF;
+> - Date of birth;
+> - Address
+>   - Zip code;
+>   - Street name;
+>   - Complement;
+>   - Neighborhood;
+>   - City;
+>   - State;
+>   - Country
 #### How to solve it
 
-- ;
+- Download Mongosh, you can find more about it [here](https://www.mongodb.com/docs/mongodb-shell/);
+- Start the executable file in .zip folder;
+- Connect to your MongoDB server;
+- And then follow the writtend code.
