@@ -9,3 +9,16 @@ CREATE TABLE IF NOT EXISTS address (
 	state VARCHAR (50),
 	country VARCHAR (50)
 );
+
+CREATE TABLE IF NOT EXISTS person (
+  	person_id serial PRIMARY KEY ,
+   	name VARCHAR(100) NOT NULL,
+   	age SMALLINT,
+   	phone INTEGER,
+	height SMALLINT,
+	email VARCHAR(50),
+	cpf VARCHAR (11) NOT NULL,
+	birthday DATE,
+	address_id INTEGER NOT NULL,
+	FOREIGN KEY (address_id) REFERENCES address (address_id)
+);
