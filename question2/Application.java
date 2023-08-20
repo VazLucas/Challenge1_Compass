@@ -8,5 +8,13 @@ public class Application {
         String[] elements = line.split(" ");
         int upsetCount = 0, funCount = 0;
 
+        for (String word : elements) {
+            if (word.equals(":-(")){
+                upsetCount++ ;
+            } else if (word.equals(":-)")){
+                funCount++;
+            }
+        }
+
     }
 }
