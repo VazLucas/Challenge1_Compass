@@ -14,13 +14,12 @@
 - Tasks
   - [x] folder creation
   - [x] branch creation
-  - [ ] start code production
+  - [x] start code production
   - [ ] question done
   - 
 #### About the challenge
 
-> Must output that student name that failed in the class respecting the quantity of problems solved and the name ordered
-> alphabetically
+> Must output the student name that failed in the class respecting the quantity of problems solved and the name ordered alphabetically
 
 > **First tiebraker** => numbers of problem solved
 >
