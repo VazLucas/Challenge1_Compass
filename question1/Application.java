@@ -40,6 +40,8 @@ public class Application {
             }
 
         }
+        System.out.println("Instance:" + k);
+        System.out.println(studentsName.get(0));
 
     }
 }
