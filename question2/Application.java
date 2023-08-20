@@ -15,6 +15,13 @@ public class Application {
                 funCount++;
             }
         }
+        if (upsetCount==funCount){
+            System.out.println("Neutral");
+        } else if (upsetCount > funCount) {
+            System.out.println("Upset");
+        } else {
+            System.out.println("Fun");
+        }
 
     }
 }
