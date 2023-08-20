@@ -1,2 +1,2 @@
 use <databaseName>
-db.<collectionName>.insertOne({object: "ds", name: "lucas", age: 25, phone: 525525252, height: 180, email: "dasdas@gmail.com", cpf: "21123123123", birthday: "2321312", address: {zip:252525 , street: "doideira" , complement: "casa", neighborhood: "xerem", city: "caxias", state: "rj", country: "br"}})
+db.<collectionName>.insertOne({object: "example", name: "lucas", age: 25, phone: 525525252, height: 180, email: "lucas@gmail.com", cpf: "21123123123", birthday: "2321312", address: {zip:252525 , street: "avenida castelo branco" , complement: "casa", neighborhood: "xerem", city: "caxias", state: "rj", country: "br"}})
