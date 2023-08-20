@@ -15,6 +15,21 @@ public class Application {
             studentsName.add(source.next());
             problemSolved.add(source.nextInt());
         }
+        for (int j = problemSolved.size()-1, i = 0; j >0;j-- ) {
+            if(problemSolved.get(i)>problemSolved.get(j))
+            {
+                problemSolved.remove(i);
+                studentsName.remove(i);
+            }
+            else if (problemSolved.get(i)<problemSolved.get(j)){
+                problemSolved.remove(j);
+                studentsName.remove(j);
+
+            }
+            else if (Objects.equals(problemSolved.get(i), problemSolved.get(j))){
+
+            }
+
     }
 
 }
