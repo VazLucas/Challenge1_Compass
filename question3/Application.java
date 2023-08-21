@@ -50,5 +50,10 @@ public class Application {
 
             result = 0;
         }
+            for (int i : results) {
+                System.out.println("Test: " + k);
+                System.out.println(i);
+                k++;
+        }
     }
 }
