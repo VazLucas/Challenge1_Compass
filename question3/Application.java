@@ -26,5 +26,29 @@ public class Application {
                 for (int i = 0; i < equationFormatted.length(); i++) {
                     equationOperator.add(equationFormatted.charAt(i));
                 }
+                if (operandsQuantity < equationCounter.size()) {
+                    System.out.println("Exceeded number of operands, you must have inserted " + operandsQuantity + " operands");
+
+                } else if (operandsQuantity > equationCounter.size()) {
+                    System.out.println("You must have inserted " + operandsQuantity + " operands");
+
+                } else {
+                    for (int j = 0; j < equationCounter.size(); j++) {
+                        if (equationOperator.get(j).hashCode() == "-".hashCode()) {
+
+                            result = result - Integer.parseInt((String) equationCounter.get(j));
+
+                        } else {
+                            result = Integer.parseInt((String) equationCounter.get(j)) + result;
+                        }
+
+                    }
+                    results.add(result);
+                }
+            }
+
+
+            result = 0;
+        }
     }
 }
