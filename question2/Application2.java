@@ -1,7 +1,6 @@
-import java.util.Arrays;
 import java.util.Scanner;
 
-public class Application {
+public class Application2 {
     public static void main (String []args) {
         Scanner source = new Scanner(System.in);
         String line = source.nextLine();
