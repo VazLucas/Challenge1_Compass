@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # First Compass Challenge
 
 #### From: *14/06/2023* to *21/06/2023*
@@ -245,3 +246,5 @@ The **address_id** in _Person Table_ should be a **foreign key** which refers to
 - Start the executable file in .zip folder;
 - Connect to your MongoDB server;
 - And then follow the written code.
+=======
+>>>>>>> d940af37eaadd285c3c71c89232adcaa166fb868
