@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # First Compass Challenge
 
 #### From: *14/06/2023* to *21/06/2023*
