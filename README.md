@@ -6,6 +6,16 @@
 
 - The challenge consists in five code challenges about Java, SQL and NoSQL
 - Each code challenge must have its own production branch which will be merged to dev branch and then to main branch
+
+| Question   | Jump to it                                                              |
+|------------|-------------------------------------------------------------------------|
+| Question 1 | [Link](https://github.com/VazLucas/Challenge1_Compass#code-challenge-1) |
+| Question 2 | [Link](https://github.com/VazLucas/Challenge1_Compass#code-challenge-2) |
+| Question 3 | [Link](https://github.com/VazLucas/Challenge1_Compass#code-challenge-3) |
+| Question 4 | [Link](https://github.com/VazLucas/Challenge1_Compass#code-challenge-4) |
+| Question 5 | [Link](https://github.com/VazLucas/Challenge1_Compass#code-challenge-5) |
+
+
 ___
 # Code challenge 1
 ___ 
