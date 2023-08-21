@@ -17,7 +17,7 @@ CREATE TABLE IF NOT EXISTS person (
    	phone INTEGER,
 	height SMALLINT,
 	email VARCHAR(50),
-	cpf VARCHAR (11) NOT NULL,
+	cpf VARCHAR (11) NOT NULL UNIQUE,
 	birthday DATE,
 	address_id INTEGER NOT NULL,
 	FOREIGN KEY (address_id) REFERENCES address (address_id)
